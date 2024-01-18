@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ShreyaMahajan1
 - 👀 I’m interested in learning new things 
-- 🌱 I’m currently learning c++ 
-- 💞️ I’m looking to collaborate on c++
+- 🌱 I’m currently learning WEB DEVELOPMENT 
+- 💞️ I’m looking to collaborate on HTML CSS BOOTSTRAP REACT
 - 📫 How to reach me mail at mahajanshreya792@gmail.com
 
 <!---
