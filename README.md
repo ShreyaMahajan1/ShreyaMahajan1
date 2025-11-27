@@ -19,8 +19,8 @@ shreya@github:~$ about
 > I build production-ready web & mobile applications with modern UI
 > and solid backend APIs. I care about code quality, clean structure
 > and real user experience more than just "making it work".
-shreya@github:~$ skills --list
 
+shreya@github:~$ skills --list
 Frontend:
   • React.js • Next.js • TypeScript • JavaScript (ES6+)
   • Redux • Tailwind CSS • Sass/SCSS • Bootstrap
