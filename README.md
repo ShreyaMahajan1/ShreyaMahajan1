@@ -2,6 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2600&pause=800&color=00F7FF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Shreya+Mahajan;Full+Stack+Developer;React+%7C+Next.js+%7C+Node.js+%7C+TypeScript;Building+real-world+web+%26+mobile+apps;Learning+AI+integrations+%F0%9F%A4%96" alt="Typing SVG" />
 </p>
 
+
 <h1 align="center">🖥 Terminal — Shreya Mahajan</h1>
 
 ---
@@ -64,4 +65,5 @@ shreya@github:~$ contact
 shreya@github:~$ exit
 > Thanks for visiting my profile ✨ Happy to connect!
 
-<p align="center"> <img src="https://img.shields.io/badge/Terminal%20Style-000000?style=for-the-badge&logo=windows-terminal&logoColor=00F7FF" /> </p> <p align="center">⌨ Built in dark mode · Powered by chai & code ☕</p>
+<p align="center">⌨ Built in dark mode · Powered by chai & code ☕</p>
+
