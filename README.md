@@ -65,5 +65,7 @@ shreya@github:~$ contact
 shreya@github:~$ exit
 > Thanks for visiting my profile ✨ Happy to connect!
 
+```
+
 <p align="center">⌨ Built in dark mode · Powered by chai & code ☕</p>
 
