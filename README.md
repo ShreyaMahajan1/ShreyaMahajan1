@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shreya Mahajan</h1>
-<h3 align="center">Full Stack Developer | React • Node.js • TypeScript • React Native</h3>
+<h3 align="center">Full Stack Developer | React • Next.js • Node.js • TypeScript • React Native</h3>
 
 <p align="center">
   <a href="mailto:mahajanshreya792@gmail.com">
@@ -12,65 +12,62 @@
 
 ---
 
-## 🚀 About Me
+## 👩‍💻 About Me
 
-I’m a **Full Stack Developer** passionate about building real-world digital products that are  
-**performant, scalable, user-friendly, and production-ready**.
+I am a **Full Stack Developer** passionate about building real digital products with clean UI, robust APIs and smooth user experiences.
 
-- 💡 Strong focus on **frontend engineering & backend architecture**
-- 📱 I build **end-to-end applications** — from UI/UX to database & deployment
-- 🧠 I love solving problems, optimizing performance & improving developer experience
-- 🤝 Open to collaborate on **React / Next.js, Node.js, TypeScript & React Native projects**
-- 🌱 Currently exploring **system design & high-scale backend patterns**
-- 📫 Reach me at **`mahajanshreya792@gmail.com`**
+- 💻 I work across **frontend, backend, and mobile development**
+- 🚀 Love building **production-ready, scalable applications**
+- 🧠 Strong focus on **problem-solving and high-quality code**
+- 🤝 Open to collaborate on **React, Next.js, Node.js, TypeScript & React Native**
+- 🌱 Currently learning & exploring **AI integrations, AI assistants, and LLM-powered features**
+- 📫 Contact me at **`mahajanshreya792@gmail.com`**
 
 ---
 
-## 🛠 Full-Stack Technologies & Tools
+## 🛠 Tech Stack
 
 ### **Frontend**
-React.js • Next.js • TypeScript • Redux • JavaScript (ES6+) • Tailwind CSS  
-HTML5 • CSS3 • Bootstrap • Sass/SCSS • Responsive UI & Accessibility
+React.js • Next.js • TypeScript • JavaScript (ES6+) • Redux  
+Tailwind CSS • HTML5 • CSS3 • Bootstrap • Sass/SCSS • Responsive UI
 
 ### **Backend**
-Node.js • Express.js • REST APIs • Authentication (JWT) • Socket.io  
-API security • Server architecture • Middleware • Request lifecycle
+Node.js • Express.js • REST APIs • JWT Authentication • Socket.io
 
-### **Database & Storage**
-MongoDB • Redis • Aggregations • Schema design • Caching strategies
+### **Database**
+MongoDB • Redis
 
-### **Mobile Development**
-React Native • Navigation • Native APIs • Performance optimization
+### **Mobile**
+React Native
 
-### **DevOps & Tools**
+### **Tools & Deployment**
 Git & GitHub • Docker • Postman • Figma • Vercel • Netlify  
-npm/yarn • ESLint & Prettier • Webpack • Vite
+npm / Yarn • ESLint • Prettier • Webpack • Vite
 
 ---
 
-## 🧠 What I Build
+## 🔧 What I Build
 
 ✔ Full-stack web applications (React + Node + MongoDB)  
-✔ Mobile apps using React Native  
-✔ Authentication, APIs, dashboards & admin systems  
+✔ AI-integrated apps & conversational UIs  
+✔ Mobile apps with React Native  
 ✔ Real-time features (Socket.io)  
-✔ Optimized UI/UX with responsive and modern design  
-✔ Production deployments & CI (Vercel / Netlify)
+✔ Authentication & secure backend systems  
+✔ Modern, responsive UI with reusable components  
 
 ---
 
-## 📌 Current Focus
-- Building reusable full-stack architecture for SaaS-like apps
-- Improving scalability and backend performance
-- Contributing to open-source & expanding project portfolio
+## 📚 Currently Learning
+✨ **AI Development & AI Integrations** (LLMs, custom chat agents & automation tools)  
+💡 Bringing AI features into real-world applications
 
 ---
 
-## 🤝 Let’s Connect
+## 🤝 Connect With Me
 💼 LinkedIn: **https://www.linkedin.com/in/shreya-mahajann/**  
-📧 Email: **`shreyamahajan56789@gmail.com`**
+📧 Email: **`mahajanshreya792@gmail.com`**
 
 ---
 
-### ⭐ Thanks for stopping by!
-> If you find something useful here, feel free to star or collaborate — always happy to connect with fellow developers :)
+### ⭐ Thanks for visiting!
+> Always excited to collaborate, learn, build and innovate 🚀
